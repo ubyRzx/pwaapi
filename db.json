@@ -1,0 +1,24 @@
+{
+  "products": [
+  {"id":1,"name":"Peregrine falcon","category":"Orange"},
+  {"id":2,"name":"Skunk, western spotted","category":"Aquamarine"},
+  {"id":3,"name":"Eastern cottontail rabbit","category":"Fuscia"},
+  {"id":4,"name":"Aardwolf","category":"Maroon"},
+  {"id":5,"name":"Large-eared bushbaby","category":"Orange"},
+  {"id":6,"name":"Common genet","category":"Orange"},
+  {"id":7,"name":"Tyrant flycatcher","category":"Crimson"},
+  {"id":8,"name":"Crane, brolga","category":"Orange"},
+  {"id":9,"name":"Ocelot","category":"Aquamarine"},
+  {"id":10,"name":"Civet, common palm","category":"Teal"},
+  {"id":11,"name":"Grey fox","category":"Blue"},
+  {"id":12,"name":"Skink, african","category":"Violet"},
+  {"id":13,"name":"Rufous-collared sparrow","category":"Violet"},
+  {"id":14,"name":"Black-backed jackal","category":"Mauv"},
+  {"id":15,"name":"Bunting, crested","category":"Purple"},
+  {"id":16,"name":"Lemming, arctic","category":"Blue"},
+  {"id":17,"name":"Vulture, black","category":"Maroon"},
+  {"id":18,"name":"Paca","category":"Goldenrod"},
+  {"id":19,"name":"Australian masked owl","category":"Green"},
+  {"id":20,"name":"Lion, steller sea","category":"Violet"}
+  ]
+}
